@@ -1,0 +1,12 @@
+body {
+  font-family: var(--font-family);
+  color: var(--color-text);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.5;
+}
+
+h1 { font-size: 28px; font-weight: 800; letter-spacing: -0.01em; }
+h2 { font-size: 18px; font-weight: 700; }
+
+.text-secondary { color: var(--color-text-secondary); }
